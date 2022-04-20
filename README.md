@@ -1,3 +1,26 @@
+## Project Overview
+
+NextJS 학습을 위한 프로젝트 입니다.
+
+NextJS는 TypeScript를 기반으로 개발합니다.
+
+Express vs NextJS
+|구분|Express|NextJS|
+|---|---|---|
+|유연함, 확장성|Express는 가볍게 테스트용 서버를 띄울수 있다. 아이디어를 빠르게 검증하는 데에는 좋겠지만 단순하고 자유도가 높은 만큼 맞는 라이브러리를 찾기 위해 많은 시간을 사용해야 한다.|미들웨어, IoC, CQRS 등 이미 많은 기능을 프레임워크 자체에 포함하고 있다. 사용자는 문서를 보고 쉽게 따라할 수 있으며, 원하는 기능이 없으면 다른 라이브러리를 사용하면 된다.|
+|Typescript 지원|추가설정을 통해 사용 가능|기본 설정, JS로도 작성 가능|
+|커뮤니티|가장 큼|꾸준히 증가|
+
+### 관련 링크
+
+[Notion] : https://periwinkle-spade-c8b.notion.site/NestJS-d9a56e31e65c4ded9ba59b7856cbb9c8
+
+## Getting Started
+
+```bash
+yarn start:dev
+```
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
